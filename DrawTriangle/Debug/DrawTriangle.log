@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\vs2017\superbible\opengl_sb\include\sb7.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2017\superbible\opengl_sb\include\sb7ext.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  DrawTriangle.vcxproj -> D:\VS2017\SuperBible\OpenGL_SB\Debug\DrawTriangle.exe

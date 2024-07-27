@@ -1,0 +1,8 @@
+#pragma once
+$version 450 core
+
+void main(void)
+{
+	//顶点的输出位置 将顶点放置在OpenGL裁剪空间中
+	gl_Position = vec4(0.0, 0.0, 0.5, 1.0);
+}

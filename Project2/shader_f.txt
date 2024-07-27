@@ -1,0 +1,11 @@
+#pragma once
+$version 450 core
+
+//声明color为输出变量
+out vec4 color;
+
+void main()
+{
+	//R,G,B,透明度
+	color = vec4(0.0, 0.8, 1.0, 1.0);
+}
